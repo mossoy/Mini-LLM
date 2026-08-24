@@ -369,7 +369,7 @@ python ./example/test_api.py --model_name=mini_deepseekv3
 
 https://github.com/user-attachments/assets/f9a703ef-07a5-4d6c-a680-c9c1f707d8a5
 
-1. 在终端中运行推理
+2. 在终端中运行推理
 
 ```shell
 # 默认使用自定义 Generator
